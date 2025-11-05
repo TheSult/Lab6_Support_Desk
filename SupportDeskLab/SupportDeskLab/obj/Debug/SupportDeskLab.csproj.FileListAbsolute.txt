@@ -1,0 +1,8 @@
+C:\Users\pmmas\source\repos\SupportDeskLab\SupportDeskLab\bin\Debug\SupportDeskLab.exe.config
+C:\Users\pmmas\source\repos\SupportDeskLab\SupportDeskLab\bin\Debug\SupportDeskLab.exe
+C:\Users\pmmas\source\repos\SupportDeskLab\SupportDeskLab\bin\Debug\SupportDeskLab.pdb
+C:\Users\pmmas\source\repos\SupportDeskLab\SupportDeskLab\obj\Debug\SupportDeskLab.csproj.AssemblyReference.cache
+C:\Users\pmmas\source\repos\SupportDeskLab\SupportDeskLab\obj\Debug\SupportDeskLab.csproj.CoreCompileInputs.cache
+C:\Users\pmmas\source\repos\SupportDeskLab\SupportDeskLab\obj\Debug\SupportDeskLab.exe
+C:\Users\pmmas\source\repos\SupportDeskLab\SupportDeskLab\obj\Debug\SupportDeskLab.pdb
+C:\Users\pmmas\source\repos\SupportDeskLab\SupportDeskLab\obj\Debug\SupportDeskLab.exe.config
